@@ -1,0 +1,4 @@
+webserver_static_sites:
+  - name: bugx.site
+    root: /usr/share/nginx/bugx.site
+    repository: https://github.com/EshginGuluzade/bugx_site_webapp.git
